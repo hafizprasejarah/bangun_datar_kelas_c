@@ -25,4 +25,7 @@ keliling persegi
 
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/0eb696f9-9ffa-41f3-98a0-adb6cbe94d30)
 
+Luas Persegi Panjang
+![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/21d3c706-8469-49fd-8483-b494888fbd5d)
+
 
