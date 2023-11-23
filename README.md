@@ -29,18 +29,23 @@ Luas Persegi Panjang
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/21d3c706-8469-49fd-8483-b494888fbd5d)
 
 keliling Persegi Panjang
+
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/3132821b-eaa3-46db-8319-2f8f8fe8de40)
 
 Luas Lingkaran
+
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/22863af9-a349-42a4-8586-df069ea4fbd5)
 
 Keliling Lingkaran
+
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/0d38ca00-f289-4f95-98fb-1cc0eaa476eb)
 
 Luas Segitiga
+
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/1c722595-2304-4e9d-9df4-f80dd1f5f5d8)
 
 Keliling Segitiga
+
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/4655ee94-0aec-4126-bfbd-1e0e3274d4ce)
 
 
