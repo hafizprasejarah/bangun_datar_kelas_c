@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/003eb781-1d17-4847-a3cc-08da432f5c78)
-![Uploading image.png…]()
+![image](https://github.com/hafizprasejarah/bangun_datar_kelas_c/assets/151703354/d7d705c1-e611-472a-a8d1-981ce5bc91ad)
+
